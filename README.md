@@ -1,0 +1,3 @@
+kind create cluster
+export GIT_TOKEN=$(gh auth token)
+export GIT_REPO=https://....
